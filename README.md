@@ -7,10 +7,10 @@
 # 01 如何使用？
 
 ## 01 克隆源代码
-`git clone https://github.com/SteveUbuntu0/plusto-package-manager.git`
+`git clone https://github.com/AnsdoShip/plusto-package-manager.git`
 
 ### 如果您没有安装 Git，您可以去安装 Git 或直接下载源代码文件。
-[Plusto 源代码下载](https://github.com/SteveUbuntu0/plusto-package-manager/archive/refs/heads/main.zip)
+[Plusto 源代码下载](https://github.com/AnsdoShip/plusto-package-manager/archive/refs/heads/main.zip)
 
 [Git for Windows 仓库](https://github.com/git-for-windows/git/releases/)
 
